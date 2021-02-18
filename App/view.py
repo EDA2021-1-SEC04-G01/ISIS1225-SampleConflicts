@@ -82,6 +82,7 @@ while True:
 
         # TO-DO: Modificación de Est-1 en el Lab 2
         print('Primer libro cargado: ' + str(lt.firstElement(books)))
+        
 
 
         # TO-DO: Modificación de Est-2 en el Lab 2
